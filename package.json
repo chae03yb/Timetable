@@ -1,0 +1,63 @@
+{
+    "name": "timetable",
+    "version": "1.0.0",
+    "description": "original: https://github.com/chae03yb/Timetable",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chae03yb/timetable-with-Electron.git"
+    },
+    "author": "chae03yb",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chae03yb/timetable-with-Electron/issues"
+    },
+    "homepage": "https://github.com/chae03yb/timetable-with-Electron#readme",
+    "devDependencies": {
+        "electron": "^11.1.1",
+        "electron-builder": "^22.9.1"
+    },
+    "build": {
+        "productName": "Timetable",
+        "appId": "com.electron.timetable",
+        "asar": true,
+        "protocols": {
+            "name": "timetable",
+            "schemes": [
+                "timetable"
+            ]
+        },
+        "mac": {
+            "target": [
+                "default"
+            ]
+        },
+        "win": {
+            "target": [
+                "zip",
+                "nsis"
+            ]
+        },
+        "linux": {
+            "target": [
+                "AppImage",
+                "deb",
+                "rpm",
+                "zip",
+                "tar.gz"
+            ]
+        },
+        "nsis": {
+            "oneClick": false,
+            "allowToChangeInstallationDirectory": true
+        },
+        "directories": {
+            "buildResources": "resources/installer/",
+            "output": "dist/",
+            "app": "."
+        }
+    }
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+tbody tr td a {
+    font-size: 20px;
+
+    text-decoration: none;
+    color: #333333;
+
+    border: 1px;
+    border-color: #eeeeee;
+    border-style: solid;
+    background-color: #eeeeee;
+
+    margin-left: 3px;
+}
+
+#help {
+    margin-top: 50px;
+}
