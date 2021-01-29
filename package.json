@@ -10,7 +10,10 @@
         "type": "git",
         "url": "git+https://github.com/chae03yb/timetable-with-Electron.git"
     },
-    "author": "chae03yb",
+    "author": {
+        "name": "chae03yb",
+        "email": "chae03yb@gmail.com"
+    },
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/chae03yb/timetable-with-Electron/issues"
