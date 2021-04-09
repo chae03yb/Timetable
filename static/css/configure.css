@@ -1,0 +1,49 @@
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+*::selection {
+    border:none;
+}
+
+td label input { 
+    width: 80px;
+    height: 16;
+}
+
+button {
+    border: none;
+}
+
+button:checked {
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+
+    border: 1px;
+    border-color: #eeeeee;
+    border-style: solid;
+    background-color: #eeeeee;
+
+    margin-left: 3px;
+}
+
+tbody {
+    margin-bottom: 25px;
+}
+
+#save-configure {
+    float: right;
+}
+
+#reset-timetable {
+    width: 117.333px;
+}
+
+#reset-class-status {
+    margin-bottom: 25px;
+}
