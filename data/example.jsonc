@@ -1,0 +1,223 @@
+// Timetable.js
+{
+    "Mon": [
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        },
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }
+    ],
+    "Tue": [
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        },
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }
+    ],
+    "Wed": [
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        },
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }
+    ],
+    "Thu": [
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        },
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }
+    ],
+    "Fri": [
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }, 
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        },
+        { 
+            "name": "",
+            "type": "",
+            "startsAt": "",
+            "endsAt": ""
+        }
+    ]
+}
