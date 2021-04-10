@@ -34,7 +34,7 @@
     },
     "build": {
         "productName": "Timetable",
-        "appId": "com.electron.timetable",
+        "appId": "com.chae03yb.timetable",
         "asar": true,
         "protocols": {
             "name": "timetable",

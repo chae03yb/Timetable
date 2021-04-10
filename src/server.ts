@@ -1,5 +1,6 @@
 import express from "express";
-import { ExpressHandlebars } from "express-handlebars";
+import exphbs = require("express-handlebars");
+import { join } from "path";
 import { readFile, unlink, writeFile } from "fs";
 
 class App {
@@ -16,9 +17,15 @@ const Path = __dirname;
 app.use(express.json());
 app.use(express.static(`${__dirname}/static/`))
 
-app.engine("hbs", {
-    ExpressHandlebars()
-})
+app.set("view engine", "hbs");
+app.set("views", join(__dirname, "../views/"));
+
+app.engine("hbs", exphbs({
+    defaultLayout: "",
+    extname: "hbs",
+    layoutsDir: join(__dirname, "../views/layouts"),
+    partialsDir: join(__dirname, "../views/")
+}));
 
 app.get("/", (req: express.Request, res: express.Response) => {
     res.sendFile(``);
