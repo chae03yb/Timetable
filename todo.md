@@ -5,7 +5,7 @@
 + 쌍방 수업 알림
 
 ### 수정
-* views/timetable.html -> views/timetable.hbs
+* views/timetable.html -> views/timetable.hbs 
 
 # 기타
 * TypeScript 익히기

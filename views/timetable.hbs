@@ -2,10 +2,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/css/timetable.css" rel="stylesheet">
     <title> 시간표 </title>
 </head>
 <body>
-    <table>
+    <table id="timetable">
         <thead>
             <tr>
                 <th>월</th>
@@ -18,11 +19,11 @@
         <tbody>
             {{#each Timetable}}
                 <tr>
-                    <td>{{Mon.classname}}</td>
-                    <td>{{Tue.classname}}</td>
-                    <td>{{Wed.classname}}</td>
-                    <td>{{Thu.classname}}</td>
-                    <td>{{Fri.classname}}</td>
+                    <td>{{Mon.ClassName}}</td>
+                    <td>{{Tue.ClassName}}</td>
+                    <td>{{Wed.ClassName}}</td>
+                    <td>{{Thu.ClassName}}</td>
+                    <td>{{Fri.ClassName}}</td>
                 </tr>
             {{/each}}
         </tbody>

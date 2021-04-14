@@ -1,4 +1,5 @@
 body {
+    margin: 0px;
     background-color: #ffffff;
     color: #333333;
 }
@@ -31,4 +32,13 @@ a {
     background-color: #eeeeee;
 
     margin-left: 3px;
+}
+
+table, td, thead tr {
+    border: 1px solid #333;
+}
+
+#timetable {
+    margin-left: 8px;
+    margin-top: 8px;
 }

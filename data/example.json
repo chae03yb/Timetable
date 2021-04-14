@@ -1,0 +1,124 @@
+[
+    {
+        "Mon": {
+            "ClassName": "M1",
+            "ClassType": "live",
+            "StartsAt": ""      
+        },
+        "Tue": {
+            "ClassName": "T1",
+            "ClassType": "video"
+        },
+        "Wed": {
+            "ClassName": "W1"
+        },
+        "Thu": {
+            "ClassName": "H1"
+        },
+        "Fri": {
+            "ClassName": "F1"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M2"
+        },
+        "Tue": {
+            "ClassName": "T2"
+        },
+        "Wed": {
+            "ClassName": "W2"
+        },
+        "Thu": {
+            "ClassName": "H2"
+        },
+        "Fri": {
+            "ClassName": "F2"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M3"
+        },
+        "Tue": {
+            "ClassName": "T3"
+        },
+        "Wed": {
+            "ClassName": "W3"
+        },
+        "Thu": {
+            "ClassName": "H3"
+        },
+        "Fri": {
+            "ClassName": "F3"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M4"
+        },
+        "Tue": {
+            "ClassName": "T4"
+        },
+        "Wed": {
+            "ClassName": "W4"
+        },
+        "Thu": {
+            "ClassName": "H4"
+        },
+        "Fri": {
+            "ClassName": "F4"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M5"
+        },
+        "Tue": {
+            "ClassName": "T5"
+        },
+        "Wed": {
+            "ClassName": "W5"
+        },
+        "Thu": {
+            "ClassName": "H5"
+        },
+        "Fri": {
+            "ClassName": "F5"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M6"
+        },
+        "Tue": {
+            "ClassName": "T6"
+        },
+        "Wed": {
+            "ClassName": "W6"
+        },
+        "Thu": {
+            "ClassName": "H6"
+        },
+        "Fri": {
+            "ClassName": "F6"
+        }
+    },
+    {
+        "Mon": {
+            "ClassName": "M7"
+        },
+        "Tue": {
+            "ClassName": "T7"
+        },
+        "Wed": {
+            "ClassName": "W7"
+        },
+        "Thu": {
+            "ClassName": "H7"
+        },
+        "Fri": {
+            "ClassName": "F7"
+        }
+    }
+]
